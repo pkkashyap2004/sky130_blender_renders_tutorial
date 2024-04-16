@@ -96,7 +96,7 @@ I've added a GDS file and two example Blender files to play around with
 
 The blender files have two cameras setups each to try 
 
-## Example renders
+## Example renders t
 
 Some cool renders I did with Blender 
 
